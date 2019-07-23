@@ -1,0 +1,5 @@
+Adds a dynamite gun.
+Craft it by combining a minishark and 10 dynamite on a crafting table.
+It uses bullets as ammo and automatically converts normal bullets to sticky dynamite, so running out of ammo should not be an issue.
+Due to the firing rate even regular bullets are quite expensive, I suggest using an endless musket pouch.
+Use at your own risk, you might end up destroying your entire world.
