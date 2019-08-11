@@ -3,3 +3,10 @@ Craft it by combining a minishark and 10 dynamite on a crafting table.
 It uses bullets as ammo and automatically converts normal bullets to sticky dynamite, so running out of ammo should not be an issue.
 Due to the firing rate even regular bullets are quite expensive, I suggest using an endless musket pouch.
 Use at your own risk, you might end up destroying your entire world.
+
+Also adds a fast gun.
+Like the dynamite gun, but shoots bullets instead of dynamite.
+So it's just a really fast gun.
+It can be crafted with 10 iron bars/lead bars, and a minishark.
+
+Both guns are crafted at a workbench.
